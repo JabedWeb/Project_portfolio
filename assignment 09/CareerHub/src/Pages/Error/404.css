@@ -1,0 +1,36 @@
+  .error-wrapper {
+    text-align: center;
+  }
+  
+  .error-code {
+    font-size: 6rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .error-message {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .error-description {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .error-button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 1.2rem;
+    text-decoration: none;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .error-button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Add additional styles as needed for your specific design */
+  

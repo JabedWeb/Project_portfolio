@@ -1,0 +1,44 @@
+[
+    {
+    "id" : 1,
+    "user_name" : "Saki Salman",
+    "user_photo" : "https://powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png",
+    "post_title" : "How to get your first job as a self-taught programmer",
+    "post_image" : "https://images.unsplash.com/photo-1530545232169-783ad58b026f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+    "post_tags" : ["beginners", "programming"],
+    "read_time" : 5
+
+    },
+    {
+    "id" : 2,
+    "user_name" : "Saki Salman",
+    "user_photo" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpowerpackelements.com%2Felementor-widgets%2Fteam-member%2F&psig=AOvVaw3aGJ9wLufN_Mc9EgsM0Fax&ust=1680297345596000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCF1MzJhP4CFQAAAAAdAAAAABAT",
+    "post_title" : "How to get your first job ",
+    "post_image" : "https://images.unsplash.com/photo-1512395419046-d3f6100968d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "post_tags" : ["beginners", "programming"],
+    "read_time" : 5
+
+    }
+    ,
+    {
+    "id" : 3,
+    "user_name" : "Saki Salman",
+    "user_photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFhq176RPHlREHS4QfNrr-JVxVSiBwqScLJNiFp8zWFk82jO_0rcRasdpOOiWjfQFEmhU&usqp=CAU",
+    "post_title" : " first job as a self-taught programmer",
+    "post_image" : "https://images.unsplash.com/photo-1487972467151-efb3a8a465f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "post_tags" : ["beginners", "programming"],
+    "read_time" : 5
+
+    }
+    ,
+    {
+    "id" : 4,
+    "user_name" : "Saki Salman",
+    "user_photo" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Funitedthemes.com%2Fteam-members%2F&psig=AOvVaw3aGJ9wLufN_Mc9EgsM0Fax&ust=1680297345596000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCF1MzJhP4CFQAAAAAdAAAAABAE",
+    "post_title" : "How to ob as a self-taught programmer",
+    "post_image" : "https://images.unsplash.com/photo-1579251331755-82966c4f3c8a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "post_tags" : ["beginners", "programming"],
+    "read_time" : 5
+
+    }
+]

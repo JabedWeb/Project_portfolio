@@ -1,0 +1,104 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Technology",
+      "iconLink": "https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png",
+      "totalAvailableJobs": 500
+    },
+    {
+      "id": 2,
+      "categoryName": "Finance",
+      "iconLink": "https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png",
+      "totalAvailableJobs": 350
+    },
+    {
+      "id": 3,
+      "categoryName": "Healthcare",
+      "iconLink": "https://www.freepnglogos.com/uploads/telegram-logo-png-0.png",
+      "totalAvailableJobs": 700
+    },
+    {
+      "id": 4,
+      "categoryName": "Marketing",
+      "iconLink": "https://www.freepnglogos.com/uploads/snapchat-logo-png-0.png",
+      "totalAvailableJobs": 250
+    }
+  ],
+  "featured_jobs": [
+    {"id" : 1,
+      "image": "https://www.humanrightslogo.net/sites/default/files/humanrightslogo_T-shirt-Vorlage-ARAB.jpg",
+      "title": "Data Scientist",
+      "company_name": "DataTech Solutions",
+      "salary_range": "$90,000 - $120,000",
+      "job_type": "Full-time",
+      "job_description": "We are looking for a highly skilled Data Scientist to join our data analytics team. The ideal candidate will have strong proficiency in statistical analysis, machine learning, and data visualization, and experience with programming languages such as Python or R.",
+      "job_responsibility": "Analyze and interpret complex data sets, develop predictive models and algorithms, communicate data-driven insights to stakeholders, and collaborate with cross-functional teams to drive data-driven decision making.",
+      "educational_requirements": "Master's or Ph.D. in Computer Science, Statistics, or related field",
+      "experiences": "Minimum of 3 years of relevant experience in data science, proficiency in statistical analysis, machine learning, and data visualization, experience with programming languages such as Python or R, and excellent analytical and problem-solving skills.",
+      "location" : "Dhaka Bangladesh, Bangladesh"
+    },
+    {"id" : 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjbpFh9MwYzqV_E8k7hBscvcdClBD6QWSVe5LgszEPUi4oqiLpfTQpzawrFgkN8Cno2XQ&usqp=CAU",
+      "title": "UX Designer",
+      "company_name": "Design Innovators Inc.",
+      "salary_range": "$70,000 - $90,000",
+      "job_type": "Remote",
+      "job_description": "We are seeking a talented UX Designer to join our design team. The ideal candidate will have strong proficiency in user research, information architecture, interaction design, and prototyping, and experience with design tools such as Sketch or Figma.",
+      "job_responsibility": "Conduct user research to inform design decisions, create wireframes, mockups, and prototypes, collaborate with product managers and developers, conduct usability testing, and iterate on designs based on user feedback.",
+      "educational_requirements": "Bachelor's or Master's degree in Interaction Design, UX Design, or related field",
+      "experiences": "Minimum of 2 years of relevant experience in UX design, proficiency in user research, information architecture, interaction design, and prototyping, experience with design tools such as Sketch or Figma, and excellent communication and collaboration skills.",
+      "location" : "Katmondu, Nepal,"
+    },
+    {"id" : 3,
+      "image": "https://img.freepik.com/free-photo/3d-render-vs-company-metal-letter-logo-pen-tool-created-clipping-path-included-jpeg-easy-composite_460848-7192.jpg?w=2000",
+      "title": "Product Manager",
+      "company_name": "Tech Startup Inc.",
+      "salary_range": "$80,000 - $100,000",
+      "job_type": "Full-time",
+      "job_description": "We are looking for an experienced Product Manager to lead our product development efforts. The ideal candidate will have strong proficiency in product strategy, market research, and product roadmap planning, and experience with Agile development methodologies.",
+      "job_responsibility": "Define and communicate product vision and strategy, conduct market research and competitive analysis, create and manage product roadmap, collaborate with cross-functional teams, and measure and analyze product performance.",
+      "educational_requirements": "Bachelor's or Master's degree in Business, Computer Science, or related field",
+      "experiences": "Minimum of 5 years of relevant experience in product management, proficiency in product strategy, market research, and product roadmap planning, experience with Agile development methodologies, and excellent leadership and communication skills.",
+      "location" : "Bengaloro, India"
+    },
+
+    {"id" : 4,
+      "image": "https://img.freepik.com/premium-vector/3d-realistic-logo-design-silver-blue_319520-660.jpg",
+      "title": "Sales Representative",
+      "company_name": "Global Sales Solutions",
+      "salary_range": "$50,000 - $70,000",
+      "job_type": "Onsite",
+      "job_description": "We are looking for an experienced Product Manager to lead our product development efforts. The ideal candidate will have strong proficiency in product strategy, market research, and product roadmap planning, and experience with Agile development methodologies.",
+      "job_responsibility": "Define and communicate product vision and strategy, conduct market research and competitive analysis, create and manage product roadmap, collaborate with cross-functional teams, and measure and analyze product performance.",
+      "educational_requirements": "Bachelor's or Master's degree in Business, Computer Science, or related field",
+      "experiences": "Minimum of 5 years of relevant experience in product management, proficiency in product strategy, market research, and product roadmap planning, experience with Agile development methodologies, and excellent leadership and communication skills.",
+      "location" : "Kabul, Afganisthan"
+    },
+    { "id" : 5,
+      "image": "https://thumbs.dreamstime.com/b/jpg-letter-initial-logo-design-vector-illustration-letter-initial-logo-design-vector-illustration-jpg-letter-initial-logo-design-236630510.jpg",
+      "title": "Backend Developer",
+      "company_name": "Tech Innovators Ltd.",
+      "salary_range": "$80,000 - $100,000",
+      "job_type": "Full-time",
+      "job_description": "We are looking for an experienced Backend Developer to join our backend development team. The ideal candidate will have strong proficiency in backend technologies such as Node.js, Python, or Ruby, and experience with databases such as MySQL or MongoDB.",
+      "job_responsibility": "Develop and maintain backend applications, collaborate with frontend developers and database administrators, optimize backend code for performance and scalability, and troubleshoot and debug backend issues.",
+      "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field",
+      "experiences": "Minimum of 3 years of relevant experience in backend development, proficiency in backend technologies such as Node.js, Python, or Ruby, experience with databases such as MySQL or MongoDB, and strong problem-solving skills.",
+      "location" : "Dhaka Bangladesh, Bangladesh"
+    },
+    {"id" : 6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHuRm0nuKwRnpwnqzqSMTK0xCKkcV5b4bC2g&usqp=CAU",
+      "title": "Product Manager",
+      "company_name": "Tech Startup Inc.",
+      "salary_range": "$80,000 - $100,000",
+      "job_type": "Full-time",
+      "job_description": "We are looking for an experienced Product Manager to lead our product development efforts. The ideal candidate will have strong proficiency in product strategy, market research, and product roadmap planning, and experience with Agile development methodologies.",
+      "job_responsibility": "Define and communicate product vision and strategy, conduct market research and competitive analysis, create and manage product roadmap, collaborate with cross-functional teams, and measure and analyze product performance.",
+      "educational_requirements": "Bachelor's or Master's degree in Business, Computer Science, or related field",
+      "experiences": "Minimum of 5 years of relevant experience in product management, proficiency in product strategy, market research, and product roadmap planning, experience with Agile development methodologies, and excellent leadership and communication skills.",
+      "location" : "Maleborne, Australia"
+    }
+    
+  ]
+}
